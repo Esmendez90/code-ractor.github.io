@@ -1,0 +1,144 @@
+body {
+    background-color: #d9dcd6;
+    padding: 0px;
+    margin: 0px;
+}
+
+/* header, h1, .seo, li, and a selectors style all elements at the top of the page*/
+header {
+    padding: 10px;
+    color: #ffffff;
+    background: #2a607c;
+    overflow: auto;
+}
+
+h1 {
+    float: left;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 48px;
+  }
+
+.seo {
+    color: #d9dcd6;
+  }
+ 
+li {
+    float:right;
+    margin:20px;
+    list-style-type: none;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+  }
+
+/* Styles the display of the big image on the page*/ 
+.big_image {
+    width: 100%;
+    height: 800px;
+    margin-bottom: 25px;
+    background-size: cover;
+    background-position: center;
+}
+
+/* Styles the box that is to the left of the page, in which all three smaller boxes are nested*/
+main {
+    width: 73%;
+    margin-left: 20px;
+    display: inline-block;
+    overflow: auto;
+}
+
+/* This styles the three smaller boxes that are nested in the main tag*/
+#search-engine-optimization, #online-reputation-management, #social-media-marketing {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    background-color: #0072bb;
+    box-sizing: border-box;
+}
+
+/* These two following classes style the three little images within 
+the smaller boxes*/
+.float-left {
+    float: left;
+    margin-right: 25px;
+    max-height: 200px;
+}
+
+.float-right {
+    float: right;
+    margin-right: 25px;
+    max-height: 200px;
+}
+
+/* This class styles the <h2> tags*/
+.subtitles {
+    margin-bottom: 20px;
+    font-size: 36px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #ffffff;
+}
+
+/* the aside section styles the box floating to the right of the page*/
+aside {
+    margin-right: 20px;
+    padding: 20px;
+    width: 20%;
+    height: 100%;
+    background-color: #2589bd;
+    clear: both;
+    float: right;
+}
+
+/* This class styles the <h3> tags*/
+.headings_aside_box {
+    margin-bottom: 10px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 18.72px;
+    color: #ffffff;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+/* This class styles the little images located inside the box floating
+the right of the page*/
+.pics_aside_box {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+/* this selector styles all <p> tags*/
+p {
+    font-size: 16px;
+    color: #ffffff;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: block;
+}
+
+footer {
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
