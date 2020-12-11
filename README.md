@@ -33,7 +33,7 @@ Review the original HTML and CSS code and find ways to leave a cleaner and bette
 * Open the project repository in [Visual Studio Code](https://code.visualstudio.com/).
 
 ## Tools
-* Visual Studio Code <https://code.visualstudio.com/)>.
+* Visual Studio Code <https://code.visualstudio.com>.
 * Google Inspect Element
 * Markup Validation Service <https://validator.w3.org/>.
 
